@@ -1,4 +1,5 @@
 <?php
+$buah = ["apel","mangga","jeruk"];
 
 echo $buah[0].PHP_EOL
 echo $buah[1].PHP_EOL
